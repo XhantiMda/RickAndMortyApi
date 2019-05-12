@@ -1,0 +1,14 @@
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.csprojAssemblyReference.cache
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.csproj.CoreCompileInputs.cache
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.RazorAssemblyInfo.cache
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.RazorAssemblyInfo.cs
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.AssemblyInfoInputs.cache
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.AssemblyInfo.cs
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/bin/Debug/netcoreapp2.1/RickAndMorty.deps.json
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/bin/Debug/netcoreapp2.1/RickAndMorty.runtimeconfig.json
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/bin/Debug/netcoreapp2.1/RickAndMorty.runtimeconfig.dev.json
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/bin/Debug/netcoreapp2.1/RickAndMorty.dll
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/bin/Debug/netcoreapp2.1/RickAndMorty.pdb
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.RazorTargetAssemblyInfo.cache
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.dll
+/Users/xhanti/Projects/RickAndMorty/RickAndMorty/obj/Debug/netcoreapp2.1/RickAndMorty.pdb

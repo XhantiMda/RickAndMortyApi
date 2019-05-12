@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SpaceWork\\Source\\Repos\\RickAndMorty\\RickAndMorty\\RickAndMorty.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SpaceWork\\Source\\Repos\\RickAndMorty\\RickAndMorty\\RickAndMorty.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SpaceWork\\Source\\Repos\\RickAndMorty\\RickAndMorty\\RickAndMorty.csproj",
+        "projectName": "RickAndMorty",
+        "projectPath": "C:\\Users\\SpaceWork\\Source\\Repos\\RickAndMorty\\RickAndMorty\\RickAndMorty.csproj",
+        "packagesPath": "C:\\Users\\SpaceWork\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SpaceWork\\Source\\Repos\\RickAndMorty\\RickAndMorty\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SpaceWork\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://ci.appveyor.com/nuget/nugetizer3000": {},
+          "https://shindig.pkgs.visualstudio.com/_packaging/SpaceNuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

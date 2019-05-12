@@ -1,0 +1,14 @@
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\bin\Debug\netcoreapp2.2\RickAndMorty.deps.json
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\bin\Debug\netcoreapp2.2\RickAndMorty.runtimeconfig.json
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\bin\Debug\netcoreapp2.2\RickAndMorty.runtimeconfig.dev.json
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\bin\Debug\netcoreapp2.2\RickAndMorty.dll
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\bin\Debug\netcoreapp2.2\RickAndMorty.pdb
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.csprojAssemblyReference.cache
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.csproj.CoreCompileInputs.cache
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.RazorAssemblyInfo.cache
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.RazorAssemblyInfo.cs
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.AssemblyInfoInputs.cache
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.AssemblyInfo.cs
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.RazorTargetAssemblyInfo.cache
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.dll
+C:\Users\SpaceWork\Source\Repos\RickAndMorty\RickAndMorty\obj\Debug\netcoreapp2.2\RickAndMorty.pdb
